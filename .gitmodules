@@ -116,3 +116,6 @@
 [submodule "components/lvgl"]
 	path = components/lvgl
 	url = https://github.com/lvgl/lvgl.git
+[submodule "libnmea"]
+	path = libnmea
+	url = https://github.com/jacketizer/libnmea.git
