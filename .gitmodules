@@ -116,6 +116,9 @@
 [submodule "components/lvgl"]
 	path = components/lvgl
 	url = https://github.com/lvgl/lvgl.git
-[submodule "libnmea"]
-	path = libnmea
+[submodule "components/libnmea"]
+	path = components/libnmea
 	url = https://github.com/jacketizer/libnmea.git
+[submodule "components/igrr/libnmea-esp32"]
+	path = components/igrr/libnmea-esp32
+	url = https://github.com/igrr/libnmea-esp32.git
